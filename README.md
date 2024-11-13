@@ -13,6 +13,7 @@
 >>>> ```git branch -M main```  
 >>>> ```git remote add origin (url)```
 >>>> ```git push -u origin main```
+  
 > ## linux(Terminal)
 >> ```cd /d (your file(s) location first)```    
 >> ```git cconfig --global user.name "(device's name)"```  
