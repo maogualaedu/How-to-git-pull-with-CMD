@@ -25,4 +25,7 @@
 >>>> ```git commit -m "(what you want to write."```    
 >>>> ```git branch -M main```  
 >>>> ```git remote add origin (url)```  
->>>> ```git push -u origin main```  
+>>>> ```git push -u origin main```
+  
+> ## Git list  
+>>  ``git config --list``
