@@ -2,7 +2,7 @@
 ## ```These are command``` 
 
 >windows
->> do
+>> * do
 >>> how
 >>>> yea
 >>>>> nope
