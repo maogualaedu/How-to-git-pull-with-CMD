@@ -1,4 +1,4 @@
-# How to git pull with CMD
+# How to git push with CMD
 ## ```These are commands``` 
 
 > ## windows(CMD)
