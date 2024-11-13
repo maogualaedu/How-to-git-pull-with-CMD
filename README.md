@@ -6,7 +6,7 @@
 >> ```git cconfig --global user.name "(device's name)"```  
 >> ```git config --global user.email "(the email used to register Github)"```    
 >>> ## Build the repository
->>>> ## Next
+>>>> ## After you build the repos
 >>>> ```git init```
 >>>> ```git add.```
 >>>> ```git commit -m "(what you want to write."```  
