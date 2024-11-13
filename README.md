@@ -1,4 +1,4 @@
-# How-to-git-pull-with-CMD
+# How to git pull with CMD
 ## ```These are command``` 
 
 >windows
