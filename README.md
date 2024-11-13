@@ -3,7 +3,7 @@
 
 > ## windows(CMD)
 >> ```cd /d (your file(s) location first)```    
->> ```git cconfig --global user.name "(device's name)"```  
+>> ```git cconfig --global user.name "(Your gitgub's name)"```  
 >> ```git config --global user.email "(the email used to register Github)"```    
 >>> ## Build the repository
 >>>> ## After you build the repos
